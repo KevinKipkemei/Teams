@@ -10,7 +10,7 @@ const Log = () => {
            <IonContent class="content_area">
              <IonCard class = "card">
                <IonItem>
-                 <IonImg src = "./pubic/assets/icon/Login.png">>
+                 <IonImg src = "/pubic/assets/icon/Login.png">>
                  </IonImg>
                </IonItem>
                <IonCardContent>

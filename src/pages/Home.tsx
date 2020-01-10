@@ -54,7 +54,7 @@ useEffect(() => {
         <div>
           <div>
             <button onClick = {interval}>
-              Get Location
+              Send Location
             </button>
              </div>
             <div>
